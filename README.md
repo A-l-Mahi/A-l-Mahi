@@ -18,12 +18,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </div>
 
-
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-
-
 ---
 
 ### 👨‍💻: About Me :
@@ -31,7 +25,7 @@ I am a Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 
 - :telescope: I look for interesting patterns in data.
 
-- :seedling: Exploring Machine Learning and Deeplearning.
+- :seedling: Exploring Machine Learning and Deep learning.
 
 - :zap: I always refresh my mind with some Manga and Programming puzzles
 
